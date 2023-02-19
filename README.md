@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Python, PHP, CSS, HTML, Javascript**
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **kamauanyega437@gmail.com**
+- 📫 How to reach me **anyega.alex.kamau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
